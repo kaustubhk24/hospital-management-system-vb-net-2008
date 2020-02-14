@@ -7,6 +7,8 @@ DO NOT UPGRADE.
 
 ## Instructions
 
+Synopsis Link : https://docs.google.com/document/d/1AwNs2UfNfviE-eNQ-S8GDrgxla1YNI-gUiYxVldlHn8/edit?usp=sharing
+
 ###### Ways to Download.
 
  1. Clone 
